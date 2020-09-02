@@ -6,3 +6,9 @@ CookieBells is simple recipes taking app.
 ### Difference between native apps vs web apps vs pwa's
 
 <img src="https://webdev.imgix.net/what-are-pwas/capabilities-reach.svg" />
+
+----------------------------------------------------------
+
+<img src="images/p1.png" />
+<img src="images/p2.png" />
+<img src="images/p3.png" />
