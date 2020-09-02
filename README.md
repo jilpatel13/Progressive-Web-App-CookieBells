@@ -1,5 +1,5 @@
 ### Progressive-Web-App-CookieBells
-CookieBells is simple recipes not taking app.
+CookieBells is simple recipes taking app.
 
 <img src="https://webdev.imgix.net/images/collections/pwa.svg" />
 
