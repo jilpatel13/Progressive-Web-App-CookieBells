@@ -1,6 +1,8 @@
 ### Progressive-Web-App-CookieBells
 CookieBells is simple recipes taking app. 
-Add app to your mobile home screen https://cookie-bells-f0186.web.app/
+
+--------------------------------------------------
+visit the link in your mobile browser and add app to your home screen for best user experience https://cookie-bells-f0186.web.app/
 
 <img src="https://webdev.imgix.net/images/collections/pwa.svg" />
 
@@ -14,4 +16,4 @@ Add app to your mobile home screen https://cookie-bells-f0186.web.app/
 <img src="images/p2.png" />
 <img src="images/p3.png" />
 
-### more about PWA https://web.dev/progressive-web-apps/#capable
+### more about PWA https://web.dev/progressive-web-apps/
